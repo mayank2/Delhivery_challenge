@@ -15,3 +15,6 @@ To automate the solution with computer vision
 
 1. Build a text classifier to classify product descriptions to their “Sub-Category” . Example: Moto-G is a mobile , Saree is women’s clothing etc [Note: Tried Category based classification , got about 30%-40% accuracy, which was not very optimal]
 2. Build an image classifier to check if the x-ray match their Sub-Category
+
+
+source of problem and dataset :- https://www.hackerearth.com/challenge/competitive/data-warriors-hackathon/
